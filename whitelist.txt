@@ -5,7 +5,6 @@ ads-a-darwin.hulustream.com
 ads-fa-darwin.hulustream.com
 allow
 android.clients.google.com
-android.clients.google.com
 api-tv.spotify.com
 api.directory.signal.org
 api.twitter.com
@@ -140,8 +139,6 @@ www.bit.ly
 www.github.com
 www.googleapis.com
 www.msftconnecttest.com
-www.msftncsi.com
-www.msftncsi.com
 www.msftncsi.com
 www.plex.tv
 www.signal.org

@@ -521,7 +521,6 @@ vmware.com
 vmwareinc.demdex.net
 wa.me
 warnerbros.112.2o7.net
-watson.telemetry.microsoft.com
 webcache.googleusercontent.com
 whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
 widget-cdn.rpxnow.com

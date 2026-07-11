@@ -3,8 +3,6 @@
 activity.windows.com
 ads-a-darwin.hulustream.com
 ads-fa-darwin.hulustream.com
-allow
-analytics.google.com
 android.clients.google.com
 api-tv.spotify.com
 api.directory.signal.org

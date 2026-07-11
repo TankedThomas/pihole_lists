@@ -303,6 +303,7 @@ pcache-eu1.badoocdn.com
 pcache-pv-eu1.badoocdn.com
 pilotfiber.dl.sourceforge.net
 pinterest.com
+piratebay.space
 piriform.com
 placehold.it
 placeholdit.imgix.net
@@ -357,6 +358,7 @@ s3.symcb.com
 s4.symcb.com
 s5.symcb.com
 sa.symcb.com
+safedl.net
 sale.alibaba.com
 samsungotn.net
 samsungrm.net
@@ -422,8 +424,10 @@ tedcdn.com
 telemetry-console.api.playstation.com
 ten-0-2-0.bdr01.sjc02.ca.vocus.net
 textsecure-service-whispersystems.org
+tezfiles.com
 theguardian.com
 themoviedb.com
+thepiratebay.asia
 thepiratebay.org
 thetracker.org
 thetvdb.com

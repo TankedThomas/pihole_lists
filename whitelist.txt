@@ -51,6 +51,7 @@ c.paypal.com.edgekey.net
 c.s-microsoft.com
 c64preservation.com
 captive.apple.com
+cdn.jsdelivr.net
 cdn.optimizely.com
 cdn.signal.org
 cdn.trackingmore.com
@@ -198,6 +199,7 @@ ipv6.msftncsi.com
 itunes.apple.com
 j.mp
 joewein.net
+jsdelivr.net
 keystone.mwbsys.com
 kr.battle.net
 lacnic.net
